@@ -21,3 +21,8 @@ Follow these steps to get the project up and running locally:
 3. **Install the dependencies** using the `npm install` command to download and set up all required Node.js packages.
 
 4. **Run the development server** with the `npm run dev` command to launch the app in development mode.
+<br><br>
+   
+<div align="center" >
+    <img src="Екранна снимка (4).png" alt="Todo List Screenshot" width="500"/>
+</div>
