@@ -21,5 +21,3 @@ Follow these steps to get the project up and running locally:
 3. **Install the dependencies** using the `npm install` command to download and set up all required Node.js packages.
 
 4. **Run the development server** with the `npm run dev` command to launch the app in development mode.
-
-6. **Open the application in your browser** by navigating to `http://localhost:5174` to view and interact with the app.
