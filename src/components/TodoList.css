@@ -1,0 +1,18 @@
+html {
+  background-color: #333333;
+}
+
+h1 {
+  color: #e0e0e0; /* Light gray color */
+  text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.3); /* Light shadow */
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top: 30px;
+  font-size: 40px;
+}
+
+.item-box:hover {
+  box-shadow: -5px 0 0px rgba(255, 255, 255, 0.3),
+    5px 0 0px rgba(255, 255, 255, 0.3);
+  cursor: pointer;
+}
