@@ -1,4 +1,4 @@
-# Project Name
+# Todo List
 
 A sleek and modern web application crafted with **React** and **Material-UI (MUI)**, offering a responsive interface, state management, and seamless API integrations.
 
